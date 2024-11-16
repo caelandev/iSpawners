@@ -9,4 +9,3 @@ Commands: <br>
 /ispawners givespawner <spawnertype>
 
 Author: BoggyMC
-Maintainer: Yuke Evans
